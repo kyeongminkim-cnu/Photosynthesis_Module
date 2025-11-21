@@ -1,0 +1,5 @@
+# output of models
+out/
+
+# figure files (.png, .jpg, .pdf, etc.)
+figures/
