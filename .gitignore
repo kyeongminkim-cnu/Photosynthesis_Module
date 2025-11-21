@@ -2,4 +2,7 @@
 out/
 
 # figure files (.png, .jpg, .pdf, etc.)
-figures/
+figure/
+
+# python cache files
+**/__pycache__/
